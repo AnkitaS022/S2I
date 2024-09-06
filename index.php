@@ -5,7 +5,7 @@
 <h1>PHP Page</h1>
 
 <?php
-echo "Hey! Application V1.1";
+echo "Hey! Application V2.0";
 ?>
 
 
